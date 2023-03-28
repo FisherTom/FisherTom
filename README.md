@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tom Fisher</h1>
-<h3 align="center">Junior Web Developer || Designer</h3>
+<h1 >Hi 👋, I'm Tom Fisher</h1>
+<h3 >Junior Web Developer || Designer</h3>
 
 - 🔭 I’m currently working on [Brew-log web app](https://brew-logger.netlify.app/)
 
