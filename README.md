@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Brew-log web app](https://brew-logger.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://tomfisher.dev/projects](https://tomfisher.dev/projects)
+- 👨‍💻 All of my projects are available at [https://tomfisher.dev](https://tomfisher.dev)
 
 - 📫 How to reach me *tfisher92@gmail.com*
 
